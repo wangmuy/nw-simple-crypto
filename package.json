@@ -1,0 +1,21 @@
+{
+  "name": "nw-crypto",
+  "main": "index.html",
+  "description": "simple crypto util",
+  "version": "0.0.1",
+  "keywords": [ "crypto", "crypto-js", "file-encryptor" ],
+  "window": {
+    "title": "Simple Crypto Util",
+    "toolbar": false,
+    "frame": true,
+    "width": 700,
+    "height": 700,
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 700,
+    "max_height": 700
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
