@@ -1,0 +1,3 @@
+[submodule "node_modules/file-encryptor"]
+	path = node_modules/file-encryptor
+	url = git://github.com/onmodulus/file-encryptor
